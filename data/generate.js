@@ -1,45 +1,48 @@
 const moment = require('moment')
+const places = require('./places.js')
 const fs = require('fs')
-
-const s = moment().set({'year': 2018, 'month': 0, 'date': 1, 'hour': 12})
-const e = moment().set({'year': 2018, 'month': 11, 'date': 31, 'hour': 12})
-let d = s
-let r = []
+const ics = require('ics')
 
 moment.locale('fr')
+const s = moment().set({'year': 2018, 'month': 'January', 'date': 1, 'hour': 12})
+const e = moment().set({'year': 2018, 'month': 12, 'date': 31, 'hour': 12})
+// const e = moment().set({'year': 2018, 'month': 'December', 'date': 2, 'hour': 12})
 
-function getDayInMonth (/* a moment object */ testDate, day /* 4: Thursday */, week /* 2: second week */) {
-  if (testDate.weekday() !== day) return false
-  return Math.ceil(testDate.date() / 7) === week
+function generateYearArray (s, e) {
+  let y = []
+  var d = new Date(s)
+  while (d <= e) {
+    y.push(new Date(d))
+    d.setDate(d.getDate() + 1)
+  }
+  return y
 }
-// [
-//   {"2018-01-01": ["MENAGERES", "RECYCLABLES", "VERRE", "VEGETAUX", "ENCOMBRANTS"]},
-//  ...
-// ]
+let y = generateYearArray(s.toDate(), e.toDate())
 
-while (true) {
-  let data = []
-  let w = d.weekday()
-  // ----------------------------------------------
-  // business rules start below
-  if (w === 3 || w === 6) { // mercredi, samedi
-    data.push('MENAGERES')
-  }
-  if (w === 4) { // jeudi
-    data.push('RECYCLABLES', 'VERRE')
-  }
-  if (w === 1 && d.isSameOrAfter('2018-02-26') && d.isSameOrBefore('2018-12-24')) { // lundi entre 26 fevr et 24 dec
-    data.push('VEGETAUX')
-  }
-  // every second (2) Thursday (4) of the month, ENCOMBRANTS
-  if (getDayInMonth(d, 4, 2)) {
-    data.push('ENCOMBRANTS')
-  }
-  // ------------------------------------------------
-  r.push({[d.format()]: data})
-  // console.log(`${d.format()}: ${JSON.stringify(data)}`)
-  d.add(1, 'days')
-  if (d.isAfter(e)) break
-}
-
-fs.writeFileSync('test.json', JSON.stringify(r))
+// stuff starts here
+places.list().forEach((place) => {
+  let r = []
+  let c = [] // array containing ics calendar events
+  y.forEach((day) => {
+    const m = moment(day)
+    const e = place.rules(m)
+    r.push({[m.format()]: e})
+    if (e.length > 0) {
+      // we want to be alerted the day before, at 8pm, yes that means '19'
+      const a = m.clone().subtract(1, 'day').hour(19).minute(0)
+      const startDate = a.format('YYYY-M-D-h-mm').split('-')
+      console.log(`startDate: ${startDate}`)
+      c.push({
+        start: startDate,
+        duration: { minutes: 120 },
+        title: `Demain: ${e.join(' ')}`,
+        description: `Ne pas oublier de sortir les poubelles suivantes : ${e.join(' ')}`
+      })
+    }
+  })
+  ics.createEvents(c, (error, value) => {
+    if (!error) fs.writeFileSync(`${s.year()}/${place.id}.ics`, value)
+    else console.log(`ICAL error: ${error}`)
+  })
+  fs.writeFileSync(`${s.year()}/${place.id}.json`, JSON.stringify(r, null, 2))
+})
