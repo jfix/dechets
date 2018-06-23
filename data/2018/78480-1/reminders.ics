@@ -6,2113 +6,2113 @@ X-WR-CALNAME:Des rappels pour Verneuil-sur-Seine, zone rose
 TIMEZONE-ID:Europe/Paris
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-UID:2lfc@poubelle-la-vie.fr
+UID:u7f5@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
+DTSTART:20180101T190000Z
+DTEND:20180101T210000Z
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
+END:VEVENT
+BEGIN:VEVENT
+UID:6uq7@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
 DTSTART:20180102T190000Z
 DTEND:20180102T210000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:a6d2@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180104T190000Z
+DTEND:20180104T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:3kb3@poubelle-la-vie.fr
+UID:3x3u@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180103T190000Z
-DTEND:20180103T210000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
-END:VEVENT
-BEGIN:VEVENT
-UID:6dr3@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180105T190000Z
-DTEND:20180105T210000Z
+DTSTAMP:20180623T164137Z
+DTSTART:20180108T190000Z
+DTEND:20180108T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:k3dw@poubelle-la-vie.fr
+UID:9qpn@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180109T190000Z
 DTEND:20180109T210000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:rsg4@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180111T190000Z
+DTEND:20180111T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:267d@poubelle-la-vie.fr
+UID:mglc@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180110T190000Z
-DTEND:20180110T210000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
-END:VEVENT
-BEGIN:VEVENT
-UID:712c@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180112T190000Z
-DTEND:20180112T210000Z
+DTSTAMP:20180623T164137Z
+DTSTART:20180115T190000Z
+DTEND:20180115T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:s6qz@poubelle-la-vie.fr
+UID:14vu@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180116T190000Z
 DTEND:20180116T210000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
 END:VEVENT
 BEGIN:VEVENT
-UID:1md5@poubelle-la-vie.fr
+UID:whxy@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180117T190000Z
 DTEND:20180117T210000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+SUMMARY:Demain: ENCOMBRANTS
+DESCRIPTION:Rappel pour demain\, jeudi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : ENCOMBRANTS
 END:VEVENT
 BEGIN:VEVENT
-UID:8cmc@poubelle-la-vie.fr
+UID:exu4@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180118T190000Z
 DTEND:20180118T210000Z
-SUMMARY:Demain: ENCOMBRANTS
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : ENCOMBRANTS
-END:VEVENT
-BEGIN:VEVENT
-UID:x3uj@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180119T190000Z
-DTEND:20180119T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:cfyp@poubelle-la-vie.fr
+UID:lbta@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
+DTSTART:20180122T190000Z
+DTEND:20180122T210000Z
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
+END:VEVENT
+BEGIN:VEVENT
+UID:otrn@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
 DTSTART:20180123T190000Z
 DTEND:20180123T210000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:xx1u@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180125T190000Z
+DTEND:20180125T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:nivu@poubelle-la-vie.fr
+UID:hgt6@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180124T190000Z
-DTEND:20180124T210000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
-END:VEVENT
-BEGIN:VEVENT
-UID:hc0a@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180126T190000Z
-DTEND:20180126T210000Z
+DTSTAMP:20180623T164137Z
+DTSTART:20180129T190000Z
+DTEND:20180129T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:j20t@poubelle-la-vie.fr
+UID:qz9o@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180130T190000Z
 DTEND:20180130T210000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:u1ko@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180201T190000Z
+DTEND:20180201T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:759w@poubelle-la-vie.fr
+UID:315z@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180131T190000Z
-DTEND:20180131T210000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
-END:VEVENT
-BEGIN:VEVENT
-UID:sh61@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180202T190000Z
-DTEND:20180202T210000Z
+DTSTAMP:20180623T164137Z
+DTSTART:20180205T190000Z
+DTEND:20180205T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:t2yy@poubelle-la-vie.fr
+UID:kwf5@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180206T190000Z
 DTEND:20180206T210000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:11lo@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180208T190000Z
+DTEND:20180208T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:8iuj@poubelle-la-vie.fr
+UID:63i8@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180207T190000Z
-DTEND:20180207T210000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
-END:VEVENT
-BEGIN:VEVENT
-UID:7b49@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180209T190000Z
-DTEND:20180209T210000Z
+DTSTAMP:20180623T164137Z
+DTSTART:20180212T190000Z
+DTEND:20180212T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:scy1@poubelle-la-vie.fr
+UID:11bz@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180213T190000Z
 DTEND:20180213T210000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
 END:VEVENT
 BEGIN:VEVENT
-UID:nhtf@poubelle-la-vie.fr
+UID:hrcp@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180214T190000Z
 DTEND:20180214T210000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+SUMMARY:Demain: ENCOMBRANTS
+DESCRIPTION:Rappel pour demain\, jeudi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : ENCOMBRANTS
 END:VEVENT
 BEGIN:VEVENT
-UID:n322@poubelle-la-vie.fr
+UID:6quu@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180215T190000Z
 DTEND:20180215T210000Z
-SUMMARY:Demain: ENCOMBRANTS
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : ENCOMBRANTS
-END:VEVENT
-BEGIN:VEVENT
-UID:6jr3@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180216T190000Z
-DTEND:20180216T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:6um0@poubelle-la-vie.fr
+UID:pmzw@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
+DTSTART:20180219T190000Z
+DTEND:20180219T210000Z
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
+END:VEVENT
+BEGIN:VEVENT
+UID:qlvb@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
 DTSTART:20180220T190000Z
 DTEND:20180220T210000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:xgvu@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180222T190000Z
+DTEND:20180222T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:z035@poubelle-la-vie.fr
+UID:lojh@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180221T190000Z
-DTEND:20180221T210000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180225T190000Z
+DTEND:20180225T210000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:9wyf@poubelle-la-vie.fr
+UID:hexl@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180223T190000Z
-DTEND:20180223T210000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:z1gp@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180226T190000Z
 DTEND:20180226T210000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:cph8@poubelle-la-vie.fr
+UID:amno@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180227T190000Z
 DTEND:20180227T210000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:joou@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180301T190000Z
+DTEND:20180301T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:va95@poubelle-la-vie.fr
+UID:kv3p@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180228T190000Z
-DTEND:20180228T210000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180304T190000Z
+DTEND:20180304T210000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:hox6@poubelle-la-vie.fr
+UID:yvy3@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180302T190000Z
-DTEND:20180302T210000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:zogx@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180305T190000Z
 DTEND:20180305T210000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:8r8e@poubelle-la-vie.fr
+UID:91zu@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180306T190000Z
 DTEND:20180306T210000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:r825@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180308T190000Z
+DTEND:20180308T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:erhj@poubelle-la-vie.fr
+UID:qm78@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180307T190000Z
-DTEND:20180307T210000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180311T190000Z
+DTEND:20180311T210000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:e7gl@poubelle-la-vie.fr
+UID:ew85@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180309T190000Z
-DTEND:20180309T210000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:i9ph@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180312T190000Z
 DTEND:20180312T210000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:7jud@poubelle-la-vie.fr
+UID:y9nx@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180313T190000Z
 DTEND:20180313T210000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
 END:VEVENT
 BEGIN:VEVENT
-UID:yt49@poubelle-la-vie.fr
+UID:2h4z@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180314T190000Z
 DTEND:20180314T210000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+SUMMARY:Demain: ENCOMBRANTS
+DESCRIPTION:Rappel pour demain\, jeudi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : ENCOMBRANTS
 END:VEVENT
 BEGIN:VEVENT
-UID:6er0@poubelle-la-vie.fr
+UID:jnfx@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180315T190000Z
 DTEND:20180315T210000Z
-SUMMARY:Demain: ENCOMBRANTS
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : ENCOMBRANTS
-END:VEVENT
-BEGIN:VEVENT
-UID:be87@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180316T190000Z
-DTEND:20180316T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:9ovv@poubelle-la-vie.fr
+UID:rgqg@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
+DTSTART:20180318T190000Z
+DTEND:20180318T210000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
+END:VEVENT
+BEGIN:VEVENT
+UID:13he@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
 DTSTART:20180319T190000Z
 DTEND:20180319T210000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:pvl2@poubelle-la-vie.fr
+UID:5je7@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180320T190000Z
 DTEND:20180320T210000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:8d1f@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180322T190000Z
+DTEND:20180322T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:smhn@poubelle-la-vie.fr
+UID:r462@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180321T190000Z
-DTEND:20180321T210000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180325T180000Z
+DTEND:20180325T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:2vle@poubelle-la-vie.fr
+UID:dml3@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180323T190000Z
-DTEND:20180323T210000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:9ori@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180326T180000Z
 DTEND:20180326T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:6wku@poubelle-la-vie.fr
+UID:cgyn@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180327T180000Z
 DTEND:20180327T200000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:33r3@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180329T180000Z
+DTEND:20180329T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:flgk@poubelle-la-vie.fr
+UID:pfp8@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180328T180000Z
-DTEND:20180328T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180401T180000Z
+DTEND:20180401T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:f8uk@poubelle-la-vie.fr
+UID:b9vw@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180330T180000Z
-DTEND:20180330T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:y1a6@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180402T180000Z
 DTEND:20180402T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:kc9d@poubelle-la-vie.fr
+UID:2ir1@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180403T180000Z
 DTEND:20180403T200000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:z0zg@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180405T180000Z
+DTEND:20180405T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:pi96@poubelle-la-vie.fr
+UID:c7p3@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180404T180000Z
-DTEND:20180404T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180408T180000Z
+DTEND:20180408T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:3c9e@poubelle-la-vie.fr
+UID:n8b1@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180406T180000Z
-DTEND:20180406T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:pi7w@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180409T180000Z
 DTEND:20180409T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:i8k4@poubelle-la-vie.fr
+UID:d0nm@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180410T180000Z
 DTEND:20180410T200000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:am25@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180412T180000Z
+DTEND:20180412T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:v4w2@poubelle-la-vie.fr
+UID:p6yt@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180411T180000Z
-DTEND:20180411T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180415T180000Z
+DTEND:20180415T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:2l16@poubelle-la-vie.fr
+UID:4vs7@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180413T180000Z
-DTEND:20180413T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:iixq@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180416T180000Z
 DTEND:20180416T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:szx6@poubelle-la-vie.fr
+UID:p1nm@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180417T180000Z
 DTEND:20180417T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
 END:VEVENT
 BEGIN:VEVENT
-UID:xlp1@poubelle-la-vie.fr
+UID:6dki@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180418T180000Z
 DTEND:20180418T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+SUMMARY:Demain: ENCOMBRANTS
+DESCRIPTION:Rappel pour demain\, jeudi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : ENCOMBRANTS
 END:VEVENT
 BEGIN:VEVENT
-UID:7677@poubelle-la-vie.fr
+UID:vscw@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180419T180000Z
 DTEND:20180419T200000Z
-SUMMARY:Demain: ENCOMBRANTS
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : ENCOMBRANTS
-END:VEVENT
-BEGIN:VEVENT
-UID:e372@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180420T180000Z
-DTEND:20180420T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:nze1@poubelle-la-vie.fr
+UID:fdi9@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
+DTSTART:20180422T180000Z
+DTEND:20180422T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
+END:VEVENT
+BEGIN:VEVENT
+UID:enav@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
 DTSTART:20180423T180000Z
 DTEND:20180423T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:z95j@poubelle-la-vie.fr
+UID:a1we@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180424T180000Z
 DTEND:20180424T200000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:jlt1@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180426T180000Z
+DTEND:20180426T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:6o1g@poubelle-la-vie.fr
+UID:ferj@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180425T180000Z
-DTEND:20180425T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180429T180000Z
+DTEND:20180429T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:gdbe@poubelle-la-vie.fr
+UID:by9r@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180427T180000Z
-DTEND:20180427T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:6221@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180430T180000Z
 DTEND:20180430T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:0hmu@poubelle-la-vie.fr
+UID:fh3v@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180501T180000Z
 DTEND:20180501T200000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:95h8@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180503T180000Z
+DTEND:20180503T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:lb04@poubelle-la-vie.fr
+UID:rjl1@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180502T180000Z
-DTEND:20180502T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180506T180000Z
+DTEND:20180506T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:bco8@poubelle-la-vie.fr
+UID:ngv2@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180504T180000Z
-DTEND:20180504T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:9wf4@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180507T180000Z
 DTEND:20180507T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:br2k@poubelle-la-vie.fr
+UID:99cg@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180508T180000Z
 DTEND:20180508T200000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:j59n@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180510T180000Z
+DTEND:20180510T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:vu68@poubelle-la-vie.fr
+UID:6bwi@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180509T180000Z
-DTEND:20180509T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180513T180000Z
+DTEND:20180513T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:b3d1@poubelle-la-vie.fr
+UID:nbu9@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180511T180000Z
-DTEND:20180511T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:pk1m@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180514T180000Z
 DTEND:20180514T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:1qx8@poubelle-la-vie.fr
+UID:s01y@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180515T180000Z
 DTEND:20180515T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
 END:VEVENT
 BEGIN:VEVENT
-UID:bu2l@poubelle-la-vie.fr
+UID:go1x@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180516T180000Z
 DTEND:20180516T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+SUMMARY:Demain: ENCOMBRANTS
+DESCRIPTION:Rappel pour demain\, jeudi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : ENCOMBRANTS
 END:VEVENT
 BEGIN:VEVENT
-UID:38bv@poubelle-la-vie.fr
+UID:a4hu@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180517T180000Z
 DTEND:20180517T200000Z
-SUMMARY:Demain: ENCOMBRANTS
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : ENCOMBRANTS
-END:VEVENT
-BEGIN:VEVENT
-UID:g5o0@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180518T180000Z
-DTEND:20180518T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:nm8g@poubelle-la-vie.fr
+UID:ax2h@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
+DTSTART:20180520T180000Z
+DTEND:20180520T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
+END:VEVENT
+BEGIN:VEVENT
+UID:e8mb@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
 DTSTART:20180521T180000Z
 DTEND:20180521T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:6adh@poubelle-la-vie.fr
+UID:11l3@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180522T180000Z
 DTEND:20180522T200000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:a9tl@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180524T180000Z
+DTEND:20180524T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:1xa7@poubelle-la-vie.fr
+UID:t3t6@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180523T180000Z
-DTEND:20180523T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180527T180000Z
+DTEND:20180527T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:vaxt@poubelle-la-vie.fr
+UID:2idk@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180525T180000Z
-DTEND:20180525T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:iiwc@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180528T180000Z
 DTEND:20180528T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:o2ce@poubelle-la-vie.fr
+UID:m3p1@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180529T180000Z
 DTEND:20180529T200000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:3eux@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180531T180000Z
+DTEND:20180531T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:8dld@poubelle-la-vie.fr
+UID:5xyp@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180530T180000Z
-DTEND:20180530T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180603T180000Z
+DTEND:20180603T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:8oq1@poubelle-la-vie.fr
+UID:ryfe@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180601T180000Z
-DTEND:20180601T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:kbtn@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180604T180000Z
 DTEND:20180604T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:h0ai@poubelle-la-vie.fr
+UID:i6ge@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180605T180000Z
 DTEND:20180605T200000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:zi6q@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180607T180000Z
+DTEND:20180607T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:apb8@poubelle-la-vie.fr
+UID:wxjs@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180606T180000Z
-DTEND:20180606T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180610T180000Z
+DTEND:20180610T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:y2yh@poubelle-la-vie.fr
+UID:dkip@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180608T180000Z
-DTEND:20180608T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:r4ea@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180611T180000Z
 DTEND:20180611T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:8q96@poubelle-la-vie.fr
+UID:p71s@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180612T180000Z
 DTEND:20180612T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
 END:VEVENT
 BEGIN:VEVENT
-UID:ygo1@poubelle-la-vie.fr
+UID:i75t@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180613T180000Z
-DTEND:20180613T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
-END:VEVENT
-BEGIN:VEVENT
-UID:endg@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180614T180000Z
 DTEND:20180614T200000Z
-SUMMARY:Demain: ENCOMBRANTS
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : ENCOMBRANTS
-END:VEVENT
-BEGIN:VEVENT
-UID:ql3v@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180615T180000Z
-DTEND:20180615T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:iug8@poubelle-la-vie.fr
+UID:ks3j@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
+DTSTART:20180617T180000Z
+DTEND:20180617T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
+END:VEVENT
+BEGIN:VEVENT
+UID:aez7@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
 DTSTART:20180618T180000Z
 DTEND:20180618T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:oq36@poubelle-la-vie.fr
+UID:dfbw@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180619T180000Z
 DTEND:20180619T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
 END:VEVENT
 BEGIN:VEVENT
-UID:4mjg@poubelle-la-vie.fr
+UID:awh2@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180620T180000Z
 DTEND:20180620T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+SUMMARY:Demain: ENCOMBRANTS
+DESCRIPTION:Rappel pour demain\, jeudi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : ENCOMBRANTS
 END:VEVENT
 BEGIN:VEVENT
-UID:0bxy@poubelle-la-vie.fr
+UID:u6nl@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180622T180000Z
-DTEND:20180622T200000Z
+DTSTAMP:20180623T164137Z
+DTSTART:20180621T180000Z
+DTEND:20180621T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:fdnn@poubelle-la-vie.fr
+UID:9t0g@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
+DTSTART:20180624T180000Z
+DTEND:20180624T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
+END:VEVENT
+BEGIN:VEVENT
+UID:unxt@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
 DTSTART:20180625T180000Z
 DTEND:20180625T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:pvu5@poubelle-la-vie.fr
+UID:ycjo@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180626T180000Z
 DTEND:20180626T200000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:8w8q@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180628T180000Z
+DTEND:20180628T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:jiya@poubelle-la-vie.fr
+UID:c51e@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180627T180000Z
-DTEND:20180627T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180701T180000Z
+DTEND:20180701T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:xq8w@poubelle-la-vie.fr
+UID:7luq@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180629T180000Z
-DTEND:20180629T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:ye8x@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180702T180000Z
 DTEND:20180702T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:evg1@poubelle-la-vie.fr
+UID:g9xi@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180703T180000Z
 DTEND:20180703T200000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:jkk2@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180705T180000Z
+DTEND:20180705T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:dm2n@poubelle-la-vie.fr
+UID:xv4n@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180704T180000Z
-DTEND:20180704T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180708T180000Z
+DTEND:20180708T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:zg3f@poubelle-la-vie.fr
+UID:9bx6@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180706T180000Z
-DTEND:20180706T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:a831@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180709T180000Z
 DTEND:20180709T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:gk8s@poubelle-la-vie.fr
+UID:jhw8@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180710T180000Z
 DTEND:20180710T200000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:3vih@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180712T180000Z
+DTEND:20180712T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:hotl@poubelle-la-vie.fr
+UID:hjox@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180711T180000Z
-DTEND:20180711T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180715T180000Z
+DTEND:20180715T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:nfjt@poubelle-la-vie.fr
+UID:yyqv@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180713T180000Z
-DTEND:20180713T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:upzk@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180716T180000Z
 DTEND:20180716T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:abjh@poubelle-la-vie.fr
+UID:6l5g@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180717T180000Z
 DTEND:20180717T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
 END:VEVENT
 BEGIN:VEVENT
-UID:ei4u@poubelle-la-vie.fr
+UID:b8vc@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180718T180000Z
 DTEND:20180718T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+SUMMARY:Demain: ENCOMBRANTS
+DESCRIPTION:Rappel pour demain\, jeudi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : ENCOMBRANTS
 END:VEVENT
 BEGIN:VEVENT
-UID:oslj@poubelle-la-vie.fr
+UID:fgo3@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180719T180000Z
 DTEND:20180719T200000Z
-SUMMARY:Demain: ENCOMBRANTS
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : ENCOMBRANTS
-END:VEVENT
-BEGIN:VEVENT
-UID:t72u@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180720T180000Z
-DTEND:20180720T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:ujyq@poubelle-la-vie.fr
+UID:cnim@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
+DTSTART:20180722T180000Z
+DTEND:20180722T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
+END:VEVENT
+BEGIN:VEVENT
+UID:2nzj@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
 DTSTART:20180723T180000Z
 DTEND:20180723T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:hdek@poubelle-la-vie.fr
+UID:7yqn@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180724T180000Z
 DTEND:20180724T200000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:2su7@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180726T180000Z
+DTEND:20180726T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:k9x9@poubelle-la-vie.fr
+UID:pxf7@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180725T180000Z
-DTEND:20180725T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180729T180000Z
+DTEND:20180729T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:o5f6@poubelle-la-vie.fr
+UID:5ck7@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180727T180000Z
-DTEND:20180727T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:1smh@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180730T180000Z
 DTEND:20180730T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:lulg@poubelle-la-vie.fr
+UID:8ife@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180731T180000Z
 DTEND:20180731T200000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:dq8x@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180802T180000Z
+DTEND:20180802T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:f61n@poubelle-la-vie.fr
+UID:vee4@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180801T180000Z
-DTEND:20180801T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180805T180000Z
+DTEND:20180805T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:7fiq@poubelle-la-vie.fr
+UID:ta5r@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180803T180000Z
-DTEND:20180803T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:ivqq@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180806T180000Z
 DTEND:20180806T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:b0tx@poubelle-la-vie.fr
+UID:i1y1@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180807T180000Z
 DTEND:20180807T200000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:l2zp@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180809T180000Z
+DTEND:20180809T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:fjfo@poubelle-la-vie.fr
+UID:h457@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180808T180000Z
-DTEND:20180808T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180812T180000Z
+DTEND:20180812T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:ojig@poubelle-la-vie.fr
+UID:y2zg@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180810T180000Z
-DTEND:20180810T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:9ft8@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180813T180000Z
 DTEND:20180813T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:m3zy@poubelle-la-vie.fr
+UID:n89n@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180814T180000Z
 DTEND:20180814T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
 END:VEVENT
 BEGIN:VEVENT
-UID:gdhi@poubelle-la-vie.fr
+UID:evwe@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180815T180000Z
 DTEND:20180815T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+SUMMARY:Demain: ENCOMBRANTS
+DESCRIPTION:Rappel pour demain\, jeudi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : ENCOMBRANTS
 END:VEVENT
 BEGIN:VEVENT
-UID:kpxw@poubelle-la-vie.fr
+UID:xsdp@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180816T180000Z
 DTEND:20180816T200000Z
-SUMMARY:Demain: ENCOMBRANTS
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : ENCOMBRANTS
-END:VEVENT
-BEGIN:VEVENT
-UID:pt7u@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180817T180000Z
-DTEND:20180817T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:zkhs@poubelle-la-vie.fr
+UID:k437@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
+DTSTART:20180819T180000Z
+DTEND:20180819T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
+END:VEVENT
+BEGIN:VEVENT
+UID:ff78@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
 DTSTART:20180820T180000Z
 DTEND:20180820T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:hdvp@poubelle-la-vie.fr
+UID:kp6s@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180821T180000Z
 DTEND:20180821T200000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:vk16@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180823T180000Z
+DTEND:20180823T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:za38@poubelle-la-vie.fr
+UID:j19a@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180822T180000Z
-DTEND:20180822T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180826T180000Z
+DTEND:20180826T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:8yja@poubelle-la-vie.fr
+UID:jkha@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180824T180000Z
-DTEND:20180824T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:270v@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180827T180000Z
 DTEND:20180827T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:sb5d@poubelle-la-vie.fr
+UID:3ugf@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180828T180000Z
 DTEND:20180828T200000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:xpec@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180830T180000Z
+DTEND:20180830T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:s8mb@poubelle-la-vie.fr
+UID:lur2@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180829T180000Z
-DTEND:20180829T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180902T180000Z
+DTEND:20180902T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:s5sh@poubelle-la-vie.fr
+UID:t254@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180831T180000Z
-DTEND:20180831T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:5f3t@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180903T180000Z
 DTEND:20180903T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:9zja@poubelle-la-vie.fr
+UID:63sg@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180904T180000Z
 DTEND:20180904T200000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:xhbm@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180906T180000Z
+DTEND:20180906T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:cloe@poubelle-la-vie.fr
+UID:bhq3@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180905T180000Z
-DTEND:20180905T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180909T180000Z
+DTEND:20180909T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:guw7@poubelle-la-vie.fr
+UID:zoaw@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180907T180000Z
-DTEND:20180907T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:7yzm@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180910T180000Z
 DTEND:20180910T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:o1tu@poubelle-la-vie.fr
+UID:my85@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180911T180000Z
 DTEND:20180911T200000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:a25z@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180913T180000Z
+DTEND:20180913T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:t7gu@poubelle-la-vie.fr
+UID:gucu@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180912T180000Z
-DTEND:20180912T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180916T180000Z
+DTEND:20180916T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:e7n6@poubelle-la-vie.fr
+UID:bgqm@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180914T180000Z
-DTEND:20180914T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:x9wa@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180917T180000Z
 DTEND:20180917T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:lksq@poubelle-la-vie.fr
+UID:s49e@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180918T180000Z
 DTEND:20180918T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
 END:VEVENT
 BEGIN:VEVENT
-UID:lhcz@poubelle-la-vie.fr
+UID:9lx6@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180919T180000Z
 DTEND:20180919T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+SUMMARY:Demain: ENCOMBRANTS
+DESCRIPTION:Rappel pour demain\, jeudi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : ENCOMBRANTS
 END:VEVENT
 BEGIN:VEVENT
-UID:em61@poubelle-la-vie.fr
+UID:3jym@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180920T180000Z
 DTEND:20180920T200000Z
-SUMMARY:Demain: ENCOMBRANTS
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : ENCOMBRANTS
-END:VEVENT
-BEGIN:VEVENT
-UID:lqlf@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180921T180000Z
-DTEND:20180921T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:sych@poubelle-la-vie.fr
+UID:41bn@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
+DTSTART:20180923T180000Z
+DTEND:20180923T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
+END:VEVENT
+BEGIN:VEVENT
+UID:c592@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
 DTSTART:20180924T180000Z
 DTEND:20180924T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:cnv8@poubelle-la-vie.fr
+UID:0adw@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20180925T180000Z
 DTEND:20180925T200000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:lotn@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20180927T180000Z
+DTEND:20180927T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:1iba@poubelle-la-vie.fr
+UID:al36@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180926T180000Z
-DTEND:20180926T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20180930T180000Z
+DTEND:20180930T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:wvsk@poubelle-la-vie.fr
+UID:c6p0@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20180928T180000Z
-DTEND:20180928T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:sjh8@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181001T180000Z
 DTEND:20181001T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:gyq2@poubelle-la-vie.fr
+UID:av73@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181002T180000Z
 DTEND:20181002T200000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:6j89@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20181004T180000Z
+DTEND:20181004T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:viz8@poubelle-la-vie.fr
+UID:talw@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20181003T180000Z
-DTEND:20181003T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20181007T180000Z
+DTEND:20181007T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:me6c@poubelle-la-vie.fr
+UID:607u@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20181005T180000Z
-DTEND:20181005T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:0hqj@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181008T180000Z
 DTEND:20181008T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:m8tn@poubelle-la-vie.fr
+UID:tqmj@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181009T180000Z
 DTEND:20181009T200000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:1k1l@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20181011T180000Z
+DTEND:20181011T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:sr0i@poubelle-la-vie.fr
+UID:ed5l@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20181010T180000Z
-DTEND:20181010T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20181014T180000Z
+DTEND:20181014T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:6n2u@poubelle-la-vie.fr
+UID:bvw2@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20181012T180000Z
-DTEND:20181012T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:r8di@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181015T180000Z
 DTEND:20181015T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:gkzh@poubelle-la-vie.fr
+UID:4m4g@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181016T180000Z
 DTEND:20181016T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
 END:VEVENT
 BEGIN:VEVENT
-UID:q0dy@poubelle-la-vie.fr
+UID:2m7b@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181017T180000Z
 DTEND:20181017T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+SUMMARY:Demain: ENCOMBRANTS
+DESCRIPTION:Rappel pour demain\, jeudi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : ENCOMBRANTS
 END:VEVENT
 BEGIN:VEVENT
-UID:77cd@poubelle-la-vie.fr
+UID:v53g@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181018T180000Z
 DTEND:20181018T200000Z
-SUMMARY:Demain: ENCOMBRANTS
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : ENCOMBRANTS
-END:VEVENT
-BEGIN:VEVENT
-UID:gfcg@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20181019T180000Z
-DTEND:20181019T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:bxes@poubelle-la-vie.fr
+UID:t6uc@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
+DTSTART:20181021T180000Z
+DTEND:20181021T200000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
+END:VEVENT
+BEGIN:VEVENT
+UID:50yf@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
 DTSTART:20181022T180000Z
 DTEND:20181022T200000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:trzu@poubelle-la-vie.fr
+UID:09j8@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181023T180000Z
 DTEND:20181023T200000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:8ab5@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20181025T180000Z
+DTEND:20181025T200000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:qrk0@poubelle-la-vie.fr
+UID:kp7i@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20181024T180000Z
-DTEND:20181024T200000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20181028T190000Z
+DTEND:20181028T210000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:ok5u@poubelle-la-vie.fr
+UID:txse@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20181026T180000Z
-DTEND:20181026T200000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:9k5k@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181029T190000Z
 DTEND:20181029T210000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:di7p@poubelle-la-vie.fr
+UID:om06@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181030T190000Z
 DTEND:20181030T210000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:ubcc@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20181101T190000Z
+DTEND:20181101T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:zhun@poubelle-la-vie.fr
+UID:mkfi@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20181031T190000Z
-DTEND:20181031T210000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20181104T190000Z
+DTEND:20181104T210000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:0y4v@poubelle-la-vie.fr
+UID:f6da@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20181102T190000Z
-DTEND:20181102T210000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:1o5f@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181105T190000Z
 DTEND:20181105T210000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:nw0l@poubelle-la-vie.fr
+UID:p53a@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181106T190000Z
 DTEND:20181106T210000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:gw9n@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20181108T190000Z
+DTEND:20181108T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:0gyd@poubelle-la-vie.fr
+UID:ffpd@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20181107T190000Z
-DTEND:20181107T210000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20181111T190000Z
+DTEND:20181111T210000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:q3wb@poubelle-la-vie.fr
+UID:aj32@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20181109T190000Z
-DTEND:20181109T210000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:9srs@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181112T190000Z
 DTEND:20181112T210000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:uvma@poubelle-la-vie.fr
+UID:6a4v@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181113T190000Z
 DTEND:20181113T210000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
 END:VEVENT
 BEGIN:VEVENT
-UID:pzxg@poubelle-la-vie.fr
+UID:90vb@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181114T190000Z
 DTEND:20181114T210000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+SUMMARY:Demain: ENCOMBRANTS
+DESCRIPTION:Rappel pour demain\, jeudi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : ENCOMBRANTS
 END:VEVENT
 BEGIN:VEVENT
-UID:n5gc@poubelle-la-vie.fr
+UID:c1zn@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181115T190000Z
 DTEND:20181115T210000Z
-SUMMARY:Demain: ENCOMBRANTS
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : ENCOMBRANTS
-END:VEVENT
-BEGIN:VEVENT
-UID:g8ya@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20181116T190000Z
-DTEND:20181116T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:njm8@poubelle-la-vie.fr
+UID:okei@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
+DTSTART:20181118T190000Z
+DTEND:20181118T210000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
+END:VEVENT
+BEGIN:VEVENT
+UID:tdxj@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
 DTSTART:20181119T190000Z
 DTEND:20181119T210000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:81pd@poubelle-la-vie.fr
+UID:py72@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181120T190000Z
 DTEND:20181120T210000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:lntu@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20181122T190000Z
+DTEND:20181122T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:kgf4@poubelle-la-vie.fr
+UID:i2kt@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20181121T190000Z
-DTEND:20181121T210000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20181125T190000Z
+DTEND:20181125T210000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:ho6j@poubelle-la-vie.fr
+UID:lgow@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20181123T190000Z
-DTEND:20181123T210000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:dwfg@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181126T190000Z
 DTEND:20181126T210000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:7msg@poubelle-la-vie.fr
+UID:ikjt@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181127T190000Z
 DTEND:20181127T210000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:eab7@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20181129T190000Z
+DTEND:20181129T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:2nhf@poubelle-la-vie.fr
+UID:8hv6@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20181128T190000Z
-DTEND:20181128T210000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20181202T190000Z
+DTEND:20181202T210000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:9r1w@poubelle-la-vie.fr
+UID:6b03@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20181130T190000Z
-DTEND:20181130T210000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:b6gv@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181203T190000Z
 DTEND:20181203T210000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:ibcy@poubelle-la-vie.fr
+UID:m5y6@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181204T190000Z
 DTEND:20181204T210000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:c383@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20181206T190000Z
+DTEND:20181206T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:bna9@poubelle-la-vie.fr
+UID:fud2@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20181205T190000Z
-DTEND:20181205T210000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20181209T190000Z
+DTEND:20181209T210000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:q1zd@poubelle-la-vie.fr
+UID:g5l6@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20181207T190000Z
-DTEND:20181207T210000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:zoj9@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181210T190000Z
 DTEND:20181210T210000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:nxzp@poubelle-la-vie.fr
+UID:g51n@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181211T190000Z
 DTEND:20181211T210000Z
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
+END:VEVENT
+BEGIN:VEVENT
+UID:pedc@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
+DTSTART:20181213T190000Z
+DTEND:20181213T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:zx5u@poubelle-la-vie.fr
+UID:ptzh@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20181212T190000Z
-DTEND:20181212T210000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+DTSTAMP:20180623T164137Z
+DTSTART:20181216T190000Z
+DTEND:20181216T210000Z
+SUMMARY:Demain: VEGETAUX
+DESCRIPTION:Rappel pour demain\, lundi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : VEGETAUX
 END:VEVENT
 BEGIN:VEVENT
-UID:gb9l@poubelle-la-vie.fr
+UID:gd3i@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20181214T190000Z
-DTEND:20181214T210000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
-END:VEVENT
-BEGIN:VEVENT
-UID:wg3f@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181217T190000Z
 DTEND:20181217T210000Z
-SUMMARY:Demain: VEGETAUX
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : VEGETAUX
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:zthw@poubelle-la-vie.fr
+UID:9m9q@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181218T190000Z
 DTEND:20181218T210000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
 END:VEVENT
 BEGIN:VEVENT
-UID:bqfq@poubelle-la-vie.fr
+UID:8id7@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181219T190000Z
 DTEND:20181219T210000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
+SUMMARY:Demain: ENCOMBRANTS
+DESCRIPTION:Rappel pour demain\, jeudi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : ENCOMBRANTS
 END:VEVENT
 BEGIN:VEVENT
-UID:03mx@poubelle-la-vie.fr
+UID:luv0@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
 DTSTART:20181220T190000Z
 DTEND:20181220T210000Z
-SUMMARY:Demain: ENCOMBRANTS
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : ENCOMBRANTS
-END:VEVENT
-BEGIN:VEVENT
-UID:dw82@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20181221T190000Z
-DTEND:20181221T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 BEGIN:VEVENT
-UID:i7oo@poubelle-la-vie.fr
+UID:xamt@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
+DTSTAMP:20180623T164137Z
+DTSTART:20181224T190000Z
+DTEND:20181224T210000Z
+SUMMARY:Demain: MENAGERES
+DESCRIPTION:Rappel pour demain\, mardi : Ne pas oublier de sortir les poub
+ elles suivantes ce soir : MENAGERES
+END:VEVENT
+BEGIN:VEVENT
+UID:0q5r@poubelle-la-vie.fr
+SEQUENCE:0
+DTSTAMP:20180623T164137Z
 DTSTART:20181225T190000Z
 DTEND:20181225T210000Z
-SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+SUMMARY:Demain: RECYCLABLES\, VERRE
+DESCRIPTION:Rappel pour demain\, mercredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : RECYCLABLES VERRE
 END:VEVENT
 BEGIN:VEVENT
-UID:seqc@poubelle-la-vie.fr
+UID:6n85@poubelle-la-vie.fr
 SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20181226T190000Z
-DTEND:20181226T210000Z
-SUMMARY:Demain: RECYCLABLES VERRE
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : RECYCLABLES VERRE
-END:VEVENT
-BEGIN:VEVENT
-UID:34l1@poubelle-la-vie.fr
-SEQUENCE:0
-DTSTAMP:20180623T122517Z
-DTSTART:20181228T190000Z
-DTEND:20181228T210000Z
+DTSTAMP:20180623T164137Z
+DTSTART:20181227T190000Z
+DTEND:20181227T210000Z
 SUMMARY:Demain: MENAGERES
-DESCRIPTION:Rappel pour demain : Ne pas oublier de sortir les poubelles su
- ivantes ce soir : MENAGERES
+DESCRIPTION:Rappel pour demain\, vendredi : Ne pas oublier de sortir les p
+ oubelles suivantes ce soir : MENAGERES
 END:VEVENT
 END:VCALENDAR
