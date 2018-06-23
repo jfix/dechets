@@ -4,21 +4,21 @@ const places = [
     'name': 'Verneuil-sur-Seine, zone rose',
     'zip': '78480',
     'rules': (d) => {
-      let data = []
-      let w = d.weekday()
+      const data = []
+      let w = d.weekday() /* zero-based!!! lundi = 0, dimanche = 6 */
       // ----------------------------------------------
       // business rules start below
-      if (w === 2 || w === 5) { // mardi, vendredi
+      if (w === 1 || w === 4) { // mardi, vendredi
         data.push('MENAGERES')
       }
-      if (w === 3) { // mercredi
+      if (w === 2) { // mercredi
         data.push('RECYCLABLES', 'VERRE')
       }
-      if (w === 1 && d.isSameOrAfter('2018-02-26') && d.isSameOrBefore('2018-12-24')) { // lundi entre 26 fevr et 24 dec
+      if (w === 0 && d.isSameOrAfter('2018-02-26') && d.isSameOrBefore('2018-12-24')) { // lundi entre 26 fevr et 24 dec
         data.push('VEGETAUX')
       }
-      // every third (3) Thursday (4) of the month, ENCOMBRANTS
-      if (getDayInMonth(d, 4, 3)) {
+      // every third (3) Thursday (3, zero-based) of the month, ENCOMBRANTS
+      if (getDayInMonth(d, /* Thursday */ 3, /* week */ 3)) {
         data.push('ENCOMBRANTS')
       }
       // -----------------------------------------------
@@ -30,21 +30,21 @@ const places = [
     'name': 'Verneuil-sur-Seine, zone orange',
     'zip': '78480',
     'rules': (d) => {
-      let data = []
-      let w = d.weekday()
+      const data = []
+      let w = d.weekday() /* zero-based!!! lundi = 0, dimanche = 6 */
       // ----------------------------------------------
       // business rules start below
-      if (w === 3 || w === 6) { // mercredi, samedi
+      if (w === 2 || w === 5) { // mercredi, samedi
         data.push('MENAGERES')
       }
-      if (w === 4) { // jeudi
+      if (w === 3) { // jeudi
         data.push('RECYCLABLES', 'VERRE')
       }
-      if (w === 1 && d.isSameOrAfter('2018-02-26') && d.isSameOrBefore('2018-12-24')) { // lundi entre 26 fevr et 24 dec
+      if (w === 0 && d.isSameOrAfter('2018-02-26') && d.isSameOrBefore('2018-12-24')) { // lundi entre 26 fevr et 24 dec
         data.push('VEGETAUX')
       }
-      // every second (2) Thursday (4) of the month, ENCOMBRANTS
-      if (getDayInMonth(d, 4, 2)) {
+      // every second (2) Thursday (3, zero-based) of the month, ENCOMBRANTS
+      if (getDayInMonth(d, /* Thursday */ 3, /* week */ 2)) {
         data.push('ENCOMBRANTS')
       }
       // ------------------------------------------------
@@ -58,8 +58,7 @@ function getDayInMonth (/* a moment object */ testDate, day /* 4: Thursday */, w
   return Math.ceil(testDate.date() / 7) === week
 }
 
-const Places = function () {}
-Places.prototype.list = function () {
+const Places = function () {
   return places
 }
-module.exports = new Places()
+module.exports = Places

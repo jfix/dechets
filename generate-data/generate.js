@@ -14,9 +14,9 @@ const icsProps = {
 }
 
 moment.locale('fr')
-const s = moment().set({'year': 2018, 'month': 0, 'date': 1, 'hour': 12, 'second': 0})
-const e = moment().set({'year': 2018, 'month': 11, 'date': 31, 'hour': 12, 'second': 0})
-// const e = moment().set({'year': 2018, 'month': 'December', 'date': 2, 'hour': 12})
+
+const s = moment().set({'year': 2018, 'month': 0, 'date': 1, 'hour': 10, 'minute': 0, 'second': 0})
+const e = moment().set({'year': 2018, 'month': 11, 'date': 31, 'hour': 10, 'minute': 0, 'second': 0})
 
 function generateYearArray (s, e) {
   let year = []
@@ -30,33 +30,34 @@ function generateYearArray (s, e) {
 let year = generateYearArray(s.toDate(), e.toDate())
 
 // stuff starts here
-places.list().forEach((place) => {
-  let json = []
-  let reminderCalendar = [] // array containing reminderICS calendar events
-  let eventCalendar = []
+places().forEach((place) => {
+  const json = []
+  const reminderCalendar = [] // array containing reminderICS calendar events
+  const eventCalendar = []
 
   year.forEach((day) => {
     const m = moment(day)
     const e = place.rules(m)
     json.push({[m.format()]: e})
+
     if (e.length > 0) {
+      // push events in an array for the event calendar (alexa etc.)
       eventCalendar.push({
         start: m.toDate(),
         allDay: true,
-        summary: `Aujourd'hui: ${e.join(' ')}`,
-        description: `Eh oui, aujourd'hui c'est les poubelles suivantes : ${e.join(' ')}`
+        summary: `${e.join(', ')}`,
+        description: `Eh oui, aujourd'hui, ${m.format('dddd')}, c'est les poubelles suivantes : ${e.join(' ')}`
       })
 
-      // we want to be alerted the day before, at 8pm, yes that means '19'
-      const a = m.clone().subtract(1, 'days').hour(20).minute(0)
-      const startDate = a.toDate()
-      const endDate = a.clone().add(2, 'hours').toDate()
-      // console.log(`startDate: ${startDate}`)
+      // we want to be alerted the day before, at 8pm
+      const alertDate = m.clone().subtract(1, 'days').hour(20).minute(0).second(0)
+
+      // push events in an array for the reminder calendar (ambient)
       reminderCalendar.push({
-        start: startDate,
-        end: endDate,
-        summary: `Demain: ${e.join(' ')}`,
-        description: `Rappel pour demain : Ne pas oublier de sortir les poubelles suivantes ce soir : ${e.join(' ')}`
+        start: alertDate.toDate(),
+        end: alertDate.clone().add(2, 'hours').toDate(),
+        summary: `Demain: ${e.join(', ')}`,
+        description: `Rappel pour demain, ${m.format('dddd')} : Ne pas oublier de sortir les poubelles suivantes ce soir : ${e.join(' ')}`
       })
     }
   })
@@ -65,9 +66,11 @@ places.list().forEach((place) => {
 
   reminderICS.name(`Des rappels pour ${place.name}`)
   eventICS.name(`Quand les poubelles passent à ${place.name}`)
+
   reminderICS.events(reminderCalendar)
   eventICS.events(eventCalendar)
-  reminderICS.saveSync(`../data/${s.year()}/${place.id}/reminders.ics`)
-  eventICS.saveSync(`../data/${s.year()}/${place.id}/events.ics`)
-  fs.writeFileSync(`../data/${s.year()}/${place.id}/data.json`, JSON.stringify(json, null, 2))
+  const savePath = `../data/${s.year()}/${place.id}`
+  reminderICS.saveSync(`${savePath}/reminders.ics`)
+  eventICS.saveSync(`${savePath}/events.ics`)
+  fs.writeFileSync(`${savePath}/data.json`, JSON.stringify(json, null, 2))
 })
