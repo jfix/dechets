@@ -12,8 +12,6 @@ const icsProps = {
     language: 'FR'
   }
 }
-const reminderICS = ical(icsProps)
-const eventICS = ical(icsProps)
 
 moment.locale('fr')
 const s = moment().set({'year': 2018, 'month': 0, 'date': 1, 'hour': 12, 'second': 0})
@@ -62,6 +60,9 @@ places.list().forEach((place) => {
       })
     }
   })
+  const reminderICS = ical(icsProps)
+  const eventICS = ical(icsProps)
+
   reminderICS.name(`Des rappels pour ${place.name}`)
   eventICS.name(`Quand les poubelles passent à ${place.name}`)
   reminderICS.events(reminderCalendar)
