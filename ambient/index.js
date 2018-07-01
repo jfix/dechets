@@ -1,86 +1,57 @@
-const huejay = require('huejay')
+const request = require('request')
+require('dotenv').config({path: '_env'})
+const moment = require('moment')
+const ical = require('node-ical')
 
-huejay.discover()
-  .then(bridges => {
-    const bridge = bridges[0]
-    const client = new huejay.Client({
-      host: bridge.ip,
-      port: 80,
-      username: bridge.id,
-      timeout: 15000
-    })
-    client.bridge.isAuthenticated()
-      .then(() => {
-        console.log(`Auth OK`)
-      })
-      .catch(error => {
-        console.log(`ERR: ${JSON.stringify(error.stack)}`)
-      })
-    // client.users.getAll()
-    //   .then(users => {
-    //     for (let user of users) {
-    //       console.log(`Username: ${user.username}`)
-    //     }
-    //   })
-    //   .catch(error => {
-    //     console.log(`${error.message}`)
-    //   })
+const calUrl = `${process.env.BASE_CALENDAR_URL}/2018/78480-2/reminders.ics`
+const today = moment()
 
-    // user name: T9JvqwW2z7nON3iISPizHsSMianQWvT007BDUue6
-
-    //  as created by bridge clip UI: fQ4vCRXmWvAt1RBd7TUmFHykpjsaagiP0OGnEFDx
-
-    // const user = new client.users.User
-    // client.users.create(user)
-    //   .then(user => {
-    //     console.log(`New user created - Username: ${user.username}`)
-    //   })
-    //   .catch(error => {
-    //     if (error instanceof huejay.Error && error.type === 101) {
-    //       return console.log(`Link button not pressed. Try again...`)
-    //     }
-    //     console.log(error.stack)
-    //   })
-    // client.lights.getAll()
-    //   .then(lights => {
-    //     for (let light of lights) {
-    //       console.log(`Light [${light.id}]: ${light.name}`)
-    //       console.log(`  Type:             ${light.type}`)
-    //       console.log(`  Unique ID:        ${light.uniqueId}`)
-    //       console.log(`  Manufacturer:     ${light.manufacturer}`)
-    //       console.log(`  Model Id:         ${light.modelId}`)
-    //       console.log('  Model:')
-    //       console.log(`    Id:             ${light.model.id}`)
-    //       console.log(`    Manufacturer:   ${light.model.manufacturer}`)
-    //       console.log(`    Name:           ${light.model.name}`)
-    //       console.log(`    Type:           ${light.model.type}`)
-    //       console.log(`    Color Gamut:    ${light.model.colorGamut}`)
-    //       console.log(`    Friends of Hue: ${light.model.friendsOfHue}`)
-    //       console.log(`  Software Version: ${light.softwareVersion}`)
-    //       console.log('  State:')
-    //       console.log(`    On:         ${light.on}`)
-    //       console.log(`    Reachable:  ${light.reachable}`)
-    //       console.log(`    Brightness: ${light.brightness}`)
-    //       console.log(`    Color mode: ${light.colorMode}`)
-    //       console.log(`    Hue:        ${light.hue}`)
-    //       console.log(`    Saturation: ${light.saturation}`)
-    //       console.log(`    X/Y:        ${light.xy[0]}, ${light.xy[1]}`)
-    //       console.log(`    Color Temp: ${light.colorTemp}`)
-    //       console.log(`    Alert:      ${light.alert}`)
-    //       console.log(`    Effect:     ${light.effect}`)
-    //       console.log()
-    //     }
-    //   })
-    //   .catch(error => {
-    //     console.log(`An error occurred: ${error.message}`)
-    //   })
+const getColors = (eventSummary) => {
+  // Event summary: "Demain: VEGETAUX" or "Demain: VEGETAUX, ENCOMBRANTS"
+  const bins = eventSummary.split(': ')[1].split(', ')
+  let colors = []
+  bins.forEach((bin) => {
+    colors.push(process.env[bin])
   })
-  .catch(error => {
-    console.log(`An error occurred: ${error.message}`)
+  return colors
+}
+
+const switchOn = (colors) => {
+  const color = colors[0]
+  console.log(`color found: ${color}`)
+  request.put({
+    url: process.env.LIGHT_URL,
+    json: {
+      'on': true,
+      'hue': parseInt(color, 10),
+      'bri': 100
+    }
+  }, (err, httpResponse, body) => {
+    if (err) {
+      return console.error('upload failed:', err)
+    }
+    console.log('Upload successful!  Server responded with:', body)
   })
-// const client = new huejay.Client({
-//   host:     '123.0.12.34',
-//   port:     80,               // Optional
-//   username: 'bridgeusername', // Optional
-//   timeout:  15000,            // Optional, timeout in milliseconds (15000 is the default)
-// })
+}
+
+const switchOff = () => {
+  request.put({url: process.env.LIGHT_URL, json: {'on': false}})
+}
+
+ical.fromURL(calUrl, {}, (err, data) => {
+  if (err) console.log(err)
+  for (let k in data) {
+    if (data.hasOwnProperty(k)) {
+      const ev = data[k]
+      const date = moment(ev.start)
+      if (moment(date).isSame(today, 'day')) {
+        const colors = getColors(ev.summary)
+        if (colors.length < 1) {
+          console.log(`DECHETS INCONNUS ? --> ${ev.summary}`)
+        }
+        return switchOn(colors)
+      }
+    }
+  }
+  console.log(`Pas de collecte de dechets demain, ${today.add(1, 'days')} !`)
+})
