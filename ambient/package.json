@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^6.0.0",
     "huejay": "^1.8.4",
     "moment": "^2.22.2",
     "node-ical": "^0.7.0"
