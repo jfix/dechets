@@ -37,9 +37,10 @@ const switchOn = (colors) => {
   })
 }
 
-const switchOff = () => {
-  request.put({url: process.env.LIGHT_URL, json: {'on': false}})
-}
+// TODO
+// const switchOff = () => {
+//   request.put({url: process.env.LIGHT_URL, json: {'on': false}})
+// }
 
 ical.fromURL(calUrl, {}, (err, data) => {
   if (err) console.log(err)
