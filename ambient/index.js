@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 
 const request = require('request')
-require('dotenv').config({path: '_env'})
+const path = require('path')
+require('dotenv').config({path: path.join(__dirname, '_env')})
 const moment = require('moment')
 const ical = require('node-ical')
 
