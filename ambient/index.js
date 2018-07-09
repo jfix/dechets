@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const request = require('request')
 require('dotenv').config({path: '_env'})
 const moment = require('moment')
