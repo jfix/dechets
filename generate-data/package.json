@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ical-generator": "^0.2.10"
+    "ical-generator": "^0.2.10",
+    "moment": "^2.24.0"
   }
 }
