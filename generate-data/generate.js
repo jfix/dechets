@@ -70,6 +70,7 @@ places().forEach((place) => {
   reminderICS.events(reminderCalendar)
   eventICS.events(eventCalendar)
   const savePath = `../data/${s.year()}/${place.id}`
+  fs.mkdirSync(savePath, {recursive: true})
   reminderICS.saveSync(`${savePath}/reminders.ics`)
   eventICS.saveSync(`${savePath}/events.ics`)
   fs.writeFileSync(`${savePath}/data.json`, JSON.stringify(json, null, 2))
