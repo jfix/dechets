@@ -1,8 +1,8 @@
 # Poubelle la vie (working title)
 
 Has two parts:
-# a mechanism to generate ICS calendar data for rubbish collection (`generate-data)
-# some embryonic idea to switch on/off Hue lights based on that data (`ambient)
+1. a mechanism to generate ICS calendar data for rubbish collection (`generate-data`)
+2. some embryonic idea to switch on/off Hue lights based on that data (`ambient`)
 
 At this time, only the first one does kind of work.
 
