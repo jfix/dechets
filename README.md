@@ -1,5 +1,17 @@
 # Poubelle la vie (working title)
 
+Has two parts:
+# a mechanism to generate ICS calendar data for rubbish collection (`generate-data)
+# some embryonic idea to switch on/off Hue lights based on that data (`ambient)
+
+At this time, only the first one does kind of work.
+
+* [data/2020/78480-1/events.ics](data/2020/78480-1/events.ics) a link to my town's (and zone's) collection dates
+* [data/2020/78480-1/reminders.ics](data/2020/78480-1/reminders.ics) a link to the reminders (i.e. when the light should go on, or Alexa should remind us)
+
+----
+
+
 This is an _IoT_ project to:
 
 * have a Philips Hue light bulb display the colour of the bins for the next day
