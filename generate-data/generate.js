@@ -15,8 +15,8 @@ const icsProps = {
 
 moment.locale('fr')
 
-const s = moment().set({'year': 2019, 'month': 0, 'date': 1, 'hour': 10, 'minute': 0, 'second': 0})
-const e = moment().set({'year': 2019, 'month': 11, 'date': 31, 'hour': 10, 'minute': 0, 'second': 0})
+const s = moment().set({'year': 2020, 'month': 0, 'date': 1, 'hour': 10, 'minute': 0, 'second': 0})
+const e = moment().set({'year': 2020, 'month': 11, 'date': 31, 'hour': 10, 'minute': 0, 'second': 0})
 
 function generateYearArray (s, e) {
   let year = []
